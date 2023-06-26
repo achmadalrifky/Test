@@ -1,0 +1,34 @@
+Test Kawan Lama
+
+1. C, A, B, D, E
+2. Desain
+   - Tampilan Dashboard menarik
+   - Dapat di pahami 
+   Flows
+   - Create new account (jika belum punya akun)
+   - Login menggunakan account yang sudah di buat
+   - Pesan menu yang di inginkan melalui pilih toko dan tampilan di promo (Dashboard)
+   - Lihat promo yang tersedia di menu Promo dan News Feeds
+   Issues
+   - Saat order pesanan belum tersedia
+     * Pada saat langsung pesan menggunakan brand
+   - Object search belum bisa di gunakan
+3. - Login dan Logout
+     * Klik di kolom e-mail
+     * Ketik nama email di kolom emai-l
+     * Klik di kolom password
+     * Ketik di kolom password
+     * Tunggu page berubah tampilan
+     * Make appoinment object button x di tampilan
+     * Klik button x pada tampilan
+     * Klik foto profile
+     * Klik button Keluar
+     * Klik button Ya
+   - Make appoinmet
+     * Klik di kolom e-mail
+     * Ketik nama email di kolom emai-l
+     * Klik di kolom password
+     * Ketik di kolom password
+     * Tunggu page berubah tampilan
+     * Make appoinment object button x di tampilan
+     * Klik button object x pada tampilan
